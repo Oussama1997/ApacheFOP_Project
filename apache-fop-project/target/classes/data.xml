@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="application/xml"?>
+<users-data>
+    <header-section>
+        <data-type id="019">User Data</data-type>
+        <process-date>Friday February 5 2021 8:04:29</process-date>
+    </header-section>
+    <user-bill-data>
+	    <code>34239</code>
+        <full-name>Aymen Habassi</full-name>
+        <national-id>123AD329248</national-id>
+        <price>107.84</price>
+    </user-bill-data>
+    <user-bill-data>
+	    <code>54823</code>
+        <full-name>Taha Jaziri</full-name>
+        <national-id>942KFDSCW322</national-id>
+        <price>348.50</price>
+    </user-bill-data>
+    <user-bill-data>
+	    <code>66742</code>
+        <full-name>Sinda Sghaier</full-name>
+        <national-id>ABDD324KKD8</national-id>
+        <price>699.36</price>
+    </user-bill-data>
+	<user-bill-data>
+	    <code>85697</code>
+        <full-name>Rached Makni</full-name>
+        <national-id>68KD324KD80</national-id>
+        <price>853.64</price>
+    </user-bill-data>
+	<user-bill-data>
+	    <code>23612</code>
+        <full-name>Soumer Ahmed</full-name>
+        <national-id>KFFH942UR32</national-id>
+        <price>237.57</price>
+    </user-bill-data>
+	<user-bill-data>
+	    <code>13762</code>
+        <full-name>Khouloud Ben Taoues</full-name>
+        <national-id>3GS24K58KD8</national-id>
+        <price>382.51</price>
+    </user-bill-data>
+</users-data>
